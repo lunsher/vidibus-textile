@@ -49,7 +49,7 @@ Gem::Specification.new do |s|
       s.add_runtime_dependency(%q<RedCloth>, [">= 0"])
       s.add_runtime_dependency(%q<activesupport>, ["~> 3"])
       s.add_runtime_dependency(%q<actionpack>, ["~> 3"])
-      s.add_runtime_dependency(%q<mongoid>, ["~> 2"])
+      s.add_runtime_dependency(%q<mongoid>, ["~> 3"])
       s.add_development_dependency(%q<bundler>, ["~> 1.0.0"])
       s.add_development_dependency(%q<jeweler>, ["~> 1.5.1"])
       s.add_development_dependency(%q<rake>, [">= 0"])
