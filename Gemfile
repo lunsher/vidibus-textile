@@ -3,7 +3,7 @@ source :rubygems
 gem "RedCloth"
 gem "activesupport", "~> 3"
 gem "actionpack", "~> 3"
-gem "mongoid", "~> 2"
+gem "mongoid", "~> 3"
 
 # Add dependencies to develop your gem here.
 # Include everything needed to run rake, tests, features, etc.
